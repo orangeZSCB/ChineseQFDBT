@@ -46,7 +46,7 @@
             this.Name = "LikeForm";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "一键三连！";
+            this.Text = "Orange Studio Works=)";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
 

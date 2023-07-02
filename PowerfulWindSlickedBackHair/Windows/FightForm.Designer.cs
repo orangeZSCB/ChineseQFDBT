@@ -29,6 +29,7 @@
             this.DoubleBuffered = true;
             this.Name = "FightForm";
             this.ShowIcon = false;
+            this.Text = "Fight time!!!!!";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.ResumeLayout(false);
 

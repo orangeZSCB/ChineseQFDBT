@@ -75,7 +75,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                                 }
                                 else
                                 {
-                                    this.text.Text = "出门的瞬间\r\n";
+                                    this.text.Text = "出考场的瞬间\r\n";
                                 }
                             }
                             else if (num3 <= 125L)
@@ -84,12 +84,12 @@ namespace PowerfulWindSlickedBackHair.Windows
                                 {
                                     if (num3 == 125L)
                                     {
-                                        this.text.Text = "寸步难行\r\n";
+                                        this.text.Text = "也寸步难行\r\n";
                                     }
                                 }
                                 else
                                 {
-                                    this.text.Text = "即使天气再好也\r\n";
+                                    this.text.Text = "即使感觉考的再好\r\n";
                                 }
                             }
                             else if (num3 != 146L)
@@ -133,7 +133,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             {
                                 if (num3 == 238L)
                                 {
-                                    this.text.Text = "定期      \r\n";
+                                    this.text.Text = "担忧      \r\n";
                                 }
                             }
                             else
@@ -145,12 +145,12 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 257L)
                             {
-                                this.text.Text = "定期定期\r\n的";
+                                this.text.Text = "担忧担忧\r\n的";
                             }
                         }
                         else
                         {
-                            this.text.Text = "定期定期\r\n";
+                            this.text.Text = "担忧担忧\r\n";
                         }
                     }
                     else if (num3 <= 618L)
@@ -173,7 +173,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             }
                             else
                             {
-                                this.text.Text = "被吹成大背头\r\n";
+                                this.text.Text = "被考成大零蛋\r\n";
                             }
                         }
                         else if (num3 <= 467L)
@@ -183,7 +183,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                                 if (num3 == 467L)
                                 {
                                     this.BackColor = this.backColorY;
-                                    this.text.Text = "強风大背头但是窗口版\r\n";
+                                    this.text.Text = "強风大背头但是考试版\r\n";
                                 }
                             }
                             else
@@ -212,7 +212,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             {
                                 if (num3 == 652L)
                                 {
-                                    this.text.Text = "潜入到地下\r\n";
+                                    this.text.Text = "再检查卷子\r\n";
                                 }
                             }
                             else
@@ -251,7 +251,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                     {
                         if (num3 == 772L)
                         {
-                            this.text.Text = "如果风\r\n";
+                            this.text.Text = "如果题\r\n";
                         }
                     }
                     else
@@ -271,7 +271,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                                 {
                                     if (num3 == 876L)
                                     {
-                                        this.text.Text = "就暖和了吧\r\n";
+                                        this.text.Text = "就考好了吧\r\n";
                                     }
                                 }
                                 else
@@ -282,7 +282,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             }
                             else
                             {
-                                this.text.Text = "可以不乱刮\r\n";
+                                this.text.Text = "可以不太难\r\n";
                             }
                         }
                         else if (num3 <= 924L)
@@ -369,17 +369,17 @@ namespace PowerfulWindSlickedBackHair.Windows
                             {
                                 if (num3 == 1170L)
                                 {
-                                    this.text.Text = "      鸽子   \r\n";
+                                    this.text.Text = "      语文   \r\n";
                                 }
                             }
                             else
                             {
-                                this.text.Text = "   鸽子      \r\n";
+                                this.text.Text = "   数学      \r\n";
                             }
                         }
                         else
                         {
-                            this.text.Text = "鸽子         \r\n";
+                            this.text.Text = "英语         \r\n";
                         }
                     }
                     else if (num3 <= 1185L)
@@ -393,7 +393,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         }
                         else
                         {
-                            this.text.Text = "         鸽子\r\n";
+                            this.text.Text = "         道科\r\n";
                         }
                     }
                     else if (num3 != 1191L)
@@ -405,7 +405,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                     }
                     else
                     {
-                        this.text.Text = "大乱斗啊\r\n";
+                        this.text.Text = "试卷大乱斗啊\r\n";
                     }
                 }
                 else if (num3 <= 1304L)
@@ -421,14 +421,14 @@ namespace PowerfulWindSlickedBackHair.Windows
                         }
                         else
                         {
-                            this.text.Text = "冲出门的一瞬间\r\n";
+                            this.text.Text = "冲出考场的一瞬间\r\n";
                         }
                     }
                     else if (num3 != 1288L)
                     {
                         if (num3 == 1304L)
                         {
-                            this.text.Text = "就算天气良好\r\n";
+                            this.text.Text = "就算自我感觉良好\r\n";
                         }
                     }
                     else
@@ -448,7 +448,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                     }
                     else
                     {
-                        this.text.Text = "也寸步难行\r\n";
+                        this.text.Text = "也想改试卷\r\n";
                     }
                 }
                 else if (num3 != 1371L)
@@ -497,24 +497,24 @@ namespace PowerfulWindSlickedBackHair.Windows
                             {
                                 if (num3 == 1466L)
                                 {
-                                    this.text.Text = "这如期\r\n";
+                                    this.text.Text = "这担忧\r\n";
                                 }
                             }
                             else
                             {
-                                this.text.Text = "如期      \r\n";
+                                this.text.Text = "担忧      \r\n";
                             }
                         }
                         else if (num3 != 1476L)
                         {
                             if (num3 == 1491L)
                             {
-                                this.text.Text = "强风大背头\r\n";
+                                this.text.Text = "考成大零蛋\r\n";
                             }
                         }
                         else
                         {
-                            this.text.Text = "如期而来的\r\n的に";
+                            this.text.Text = "如期而来的\r\n的担忧";
                         }
                     }
                     else if (num3 <= 1810L)
@@ -531,7 +531,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             }
                             else
                             {
-                                this.text.Text = "天然强风大背头\r\n";
+                                this.text.Text = "试卷大零蛋\r\n";
                             }
                         }
                         else
@@ -546,24 +546,24 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 1843L)
                             {
-                                this.text.Text = "外出\r\n";
+                                this.text.Text = "冲出\r\n";
                             }
                         }
                         else
                         {
-                            this.text.Text = "外\r\n";
+                            this.text.Text = "冲\r\n";
                         }
                     }
                     else if (num3 != 1847L)
                     {
                         if (num3 == 1851L)
                         {
-                            this.text.Text = "外出的瞬\r\n";
+                            this.text.Text = "冲出的瞬\r\n";
                         }
                     }
                     else
                     {
-                        this.text.Text = "外出的\r\n";
+                        this.text.Text = "冲出的\r\n";
                     }
                 }
                 else if (num3 <= 1979L)
@@ -586,7 +586,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         }
                         else
                         {
-                            this.text.Text = "外出的瞬间\r\n";
+                            this.text.Text = "冲出的瞬间\r\n";
                         }
                     }
                     else if (num3 <= 1951L)
@@ -595,19 +595,19 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 1951L)
                             {
-                                this.text.Text = "寸步难行啊\r\n";
+                                this.text.Text = "一直担忧啊\r\n";
                             }
                         }
                         else
                         {
-                            this.text.Text = "天气良好也是\r\n";
+                            this.text.Text = "自我感觉良好也是\r\n";
                         }
                     }
                     else if (num3 != 1973L)
                     {
                         if (num3 == 1979L)
                         {
-                            this.text.Text = "风";
+                            this.text.Text = "错啦";
                         }
                     }
                     else
@@ -624,7 +624,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 1998L)
                             {
-                                this.text.Text = "强到让我哭喊\r\n";
+                                this.text.Text = "想到就想哭喊\r\n";
                             }
                         }
                         else
@@ -651,24 +651,24 @@ namespace PowerfulWindSlickedBackHair.Windows
                     {
                         if (num3 == 2074L)
                         {
-                            this.text.Text = "定期定期\r\n";
+                            this.text.Text = "担忧担忧\r\n";
                         }
                     }
                     else
                     {
-                        this.text.Text = "定期      \r\n";
+                        this.text.Text = "担忧      \r\n";
                     }
                 }
                 else if (num3 != 2084L)
                 {
                     if (num3 == 2099L)
                     {
-                        this.text.Text = "强风大背头呐\r\n";
+                        this.text.Text = "一个大零蛋呐\r\n";
                     }
                 }
                 else
                 {
-                    this.text.Text = "定期定期\r\n吹成";
+                    this.text.Text = "担忧担忧\r\n考成";
                 }
             }
             else if (num3 <= 2333L)
@@ -683,7 +683,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                             {
                                 if (num3 == 2141L)
                                 {
-                                    this.text.Text = "啊\r\n";
+                                    this.text.Text = "啊啊\r\n";
                                 }
                             }
                             else
@@ -693,7 +693,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         }
                         else
                         {
-                            this.text.Text = "那个\r\n";
+                            this.text.Text = "啊\r\n";
                         }
                     }
                     else if (num3 <= 2151L)
@@ -702,7 +702,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 2151L)
                             {
-                                this.text.Text = "出门一瞬\r\n";
+                                this.text.Text = "出考场一瞬\r\n";
                             }
                         }
                         else
@@ -730,7 +730,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 2218L)
                             {
-                                this.text.Text = "就算天气良好也\r\n";
+                                this.text.Text = "就算发挥良好也\r\n";
                             }
                         }
                         else
@@ -748,7 +748,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                     }
                     else
                     {
-                        this.text.Text = "寸步难行啊\r\n";
+                        this.text.Text = "一直担忧啊\r\n";
                     }
                 }
                 else if (num3 <= 2300L)
@@ -788,12 +788,12 @@ namespace PowerfulWindSlickedBackHair.Windows
                         {
                             if (num3 == 2381L)
                             {
-                                this.text.Text = "定期定期\r\n";
+                                this.text.Text = "一直一直\r\n";
                             }
                         }
                         else
                         {
-                            this.text.Text = "定期      \r\n";
+                            this.text.Text = "一直      \r\n";
                         }
                     }
                     else
@@ -807,19 +807,19 @@ namespace PowerfulWindSlickedBackHair.Windows
                     {
                         if (num3 == 2405L)
                         {
-                            this.text.Text = "强风大背头啊\r\n";
+                            this.text.Text = "一个大零蛋啊\r\n";
                         }
                     }
                     else
                     {
-                        this.text.Text = "定期定期\r\n吹成";
+                        this.text.Text = "一直一直\r\n担忧考成";
                     }
                 }
                 else if (num3 != 2438L)
                 {
                     if (num3 == 2445L)
                     {
-                        this.text.Text = "发量令人唏嘘的\r\n";
+                        this.text.Text = "成绩令人唏嘘的\r\n";
                     }
                 }
                 else
@@ -835,12 +835,12 @@ namespace PowerfulWindSlickedBackHair.Windows
                     {
                         if (num3 == 2476L)
                         {
-                            this.text.Text = "大背头\r\n";
+                            this.text.Text = "大零蛋\r\n";
                         }
                     }
                     else
                     {
-                        this.text.Text = "强风\r\n";
+                        this.text.Text = "一个\r\n";
                     }
                 }
                 else if (num3 != 2502L)
@@ -852,7 +852,7 @@ namespace PowerfulWindSlickedBackHair.Windows
                         changedLeft = true;
                         this.text.Font = new Font(MainForm.otherFont.Families[0], 25f, FontStyle.Bold, GraphicsUnit.Point, 134);
                         this.text.TextAlign = ContentAlignment.MiddleLeft;
-                        this.text.Text = "強風大背头\r\n但是Windows";
+                        this.text.Text = "考试大零蛋\r\n";
                     }
                 }
                 else
@@ -866,12 +866,12 @@ namespace PowerfulWindSlickedBackHair.Windows
                 {
                     if (num3 == 2677L)
                     {
-                        this.text.Text = "改:Orange(张XX)\r\n显示: winform\r\n\n";
+                        this.text.Text = "改:Orange\r\n显示: winform\r\n不过还是祝考生考个好成绩！\r\n";
                     }
                 }
                 else
                 {
-                    this.text.Text = "原: https://youtu.be/D6DVTLvOupE\r\n";
+                    this.text.Text = "原代码作者:\r\n 钅离_LX\r\n";
                 }
             }
             else if (num3 != 2753L)
@@ -888,7 +888,7 @@ namespace PowerfulWindSlickedBackHair.Windows
             }
             else
             {
-                this.text.Text = "使用插件:\r\nNAudio SunnyUI";
+                this.text.Text = " ";
             }
         }
 
